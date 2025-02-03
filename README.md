@@ -30,7 +30,7 @@
 </div>
 
 ## Extras
-![](https://komarev.com/ghpvc/?username=fernand0herick&label=Visualizações&style=for-the-badge&abbreviated=true&color=A200FF)
+![](https://komarev.com/ghpvc/?username=jhgzin&label=Visualizações&style=for-the-badge&abbreviated=true&color=FF0000)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=A200FF&width=435&lines=Please+stand+by...;I+will+get+my+coffee." alt="Typing SVG" /></a>
 
