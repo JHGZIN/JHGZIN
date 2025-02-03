@@ -22,7 +22,7 @@
 
 ## Contacts
 <div>
-  <a href="https://discord.com/users/1017808331609493515" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Discord-FF0000?style=for-the-badge&logo=discord&logoColor=FF0000&label=JHGZIN."</a>
+  <a href="https://discord.com/users/967560670302306374" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Discord-FF0000?style=for-the-badge&logo=discord&logoColor=FF0000&label=JHGZIN."</a>
 </div>
 
 ## Extras
