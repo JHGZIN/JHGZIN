@@ -1,5 +1,5 @@
 ### Main languages:
-![Pawn](https://img.shields.io/badge/-Pawn-0D1117?style=flat-square&logo=Pawn&logoColor=FF0000)&nbsp;
+![Pawn](https://img.shields.io/badge/-Pawn-0D1117?style=flat-square&logo=c%2B%2B&logoColor=FF0000)&nbsp;
 
 ### Studying in this moment:
 ![Html](https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=HTML5&logoColor=FF0000)&nbsp;
