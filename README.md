@@ -12,7 +12,7 @@
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="25"/> Sobre mim
+## Sobre mim
 
 Desenvolvedor focado em **games e interfaces visuais**, apaixonado por sistemas eficientes e designs envolventes. Tenho experiência com **PAWN**, criando sistemas completos para servidores SA-MP e atualmente exploro o universo web para construir **painéis interativos e responsivos**.
 
@@ -20,15 +20,15 @@ Gosto de resolver problemas e transformar ideias em código funcional, sempre bu
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gear/gear-original.svg" width="25"/> Tecnologias & Skills
+## Tecnologias & Skills
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/code/code-original.svg" width="20"/> Principais Linguagens:
+### Principais Linguagens:
 
 <p>
   <img src="https://img.shields.io/badge/-Pawn-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=FF0000" />
 </p>
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> Atualmente estudando:
+### Atualmente estudando:
 
 <p>
   <img src="https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=FF0000" />
@@ -38,7 +38,7 @@ Gosto de resolver problemas e transformar ideias em código funcional, sempre bu
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25"/> Estatísticas GitHub
+## Estatísticas GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JHGZIN&show_icons=true&theme=radical&icon_color=ff0000&title_color=ffffff&bg_color=0d1117" width="48%" />
