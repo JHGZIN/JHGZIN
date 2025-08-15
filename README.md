@@ -12,14 +12,6 @@
 
 ---
 
-## Sobre mim
-
-Desenvolvedor focado em **games e interfaces visuais**, apaixonado por sistemas eficientes e designs envolventes. Tenho experiência com **PAWN**, criando sistemas completos para servidores SA-MP e atualmente exploro o universo web para construir **painéis interativos e responsivos**.
-
-Gosto de resolver problemas e transformar ideias em código funcional, sempre buscando aprender e evoluir.
-
----
-
 ## Tecnologias & Skills
 
 ### Principais Linguagens:
