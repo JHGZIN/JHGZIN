@@ -1,6 +1,6 @@
 <!-- Header animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=180&section=header&text=Bem-vindo%20ao%20meu%20Universo%20Dev!&fontColor=ffffff&fontSize=30&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=180&section=header&fontColor=ffffff&fontSize=30&animation=fadeIn" />
 </p>
 
 <!-- Badges principais -->
